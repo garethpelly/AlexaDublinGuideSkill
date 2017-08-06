@@ -1,0 +1,29 @@
+getOverview more information about dublin
+getOverview what's it like in dublin
+getOverview tell me some facts about dublin 
+getOverview facts about dublin 
+getOverview overview of dublin
+getOverview dublin facts 
+getOverview dublin overview
+getOverview a dublin overview
+getTopFiveIntent tell me the top five things
+getTopFiveIntent top five things to do 
+getTopFiveIntent the top five things to do
+getTopFiveIntent give me the top fivegit
+getTopFiveIntent the top five
+getTopFiveIntent top five
+getTopFiveIntent the top five things to do
+getAttractionIntent tell me a good attraction
+getAttractionIntent where should I go
+getAttractionIntent an attraction
+getAttractionIntent attractions 
+getMoreInfoIntent open number {attraction}
+getMoreInfoIntent number {attraction}
+getMoreInfoIntent {attraction}
+getNewsIntent tell me the local news
+getNewsIntent what is the latest news 
+getNewsIntent the local news
+getNewsIntent the latest news 
+getNewsIntent the news
+getNewsIntent news
+getNewsIntent local news
